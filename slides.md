@@ -60,7 +60,7 @@ Cette théorie s'oppose assez radicalement à toute une tradition théorique por
 <!-- .slide: class="hover"-->
 
 
-><p>Le mot « signe » ne doit évidemment pas être compris ici dans l’acception saussurienne [...], mais dans son sens latin de signum, lequel s’éclaire d’autant mieux, d’ailleurs, lorsqu’on le confronte à celui de « trace ». Le « signe » fait sens à partir de la seule observation, il est un phénomène littéralement « remarquable », voire « monstrueux » (si l’on se réfère une fois encore à l’étymologie latine du mot), tandis que la « trace », si elle fait sens, le fait en tant que conséquence d’une action donnée, telle que peut l’être, par exemple, la marque de son passage laissée par un animal.</p> <p>(Christin, "Les origines de l'écriture")</p>
+><p>**Le mot « signe » ne doit évidemment pas être compris ici dans l’acception saussurienne [...], mais dans son sens latin de signum, lequel s’éclaire d’autant mieux, d’ailleurs, lorsqu’on le confronte à celui de « trace ». Le « signe » fait sens à partir de la seule observation, il est un phénomène littéralement « remarquable », voire « monstrueux » (si l’on se réfère une fois encore à l’étymologie latine du mot), tandis que la « trace », si elle fait sens, le fait en tant que conséquence d’une action donnée, telle que peut l’être, par exemple, la marque de son passage laissée par un animal.**</p> <p>(Christin, "Les origines de l'écriture")</p>
 
 <!-- .element: style="font-size:1.6rem" -->
 ===
@@ -74,7 +74,7 @@ C'est une théorie du signe bien particulière que Christin retient. Elle oppose
 <!-- .slide: class="hover"-->
 
 
-><p>Hétérogénéité des données et libertés, voire indécisions, de la lecture vont de pair. Un devin n’est jamais pleinement affirmatif : son domaine est celui de l’évaluation hypothétique. Le propre de l’image, à la différence de la langue, est de pouvoir exister pleinement dans le fragment, ou plutôt, car ce mot implique la nécessité de remonter à un tout pour rendre compte de ses éléments, dans le transitoire et l’inachevé, l’essentiel ne résidant pas en elle dans cette cohésion interne qui clôt un objet ou une structure sur soi, mais avant tout dans la rencontre d’une surface et d’un regard d’où naît une révélation.<p>
+><p>**Hétérogénéité des données et libertés, voire indécisions, de la lecture vont de pair. Un devin n’est jamais pleinement affirmatif : son domaine est celui de l’évaluation hypothétique. Le propre de l’image, à la différence de la langue, est de pouvoir exister pleinement dans le fragment, ou plutôt, car ce mot implique la nécessité de remonter à un tout pour rendre compte de ses éléments, dans le transitoire et l’inachevé, l’essentiel ne résidant pas en elle dans cette cohésion interne qui clôt un objet ou une structure sur soi, mais avant tout dans la rencontre d’une surface et d’un regard d’où naît une révélation.**<p>
 
 <!-- .element: style="font-size:1.6rem" -->
 ===
@@ -103,9 +103,10 @@ Cette conception s'oppose à ce que Christin appelle "l’hétérogénéité str
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 <!-- .slide: data-background-image="img/foie-de-plaisance-etrusque.png" -->
+<!-- .slide: class="hover" -->
 
-><p>Babylone ayant été détruite de fond en comble par le roi Sennachérib et le dieu Marduk, courroucé contre
-sa ville, ayant interdit qu’elle fût reconstruite avant soixante-dix ans, le fils de Sennachérib, Asarhaddon, se crut autorisé à la reconstruire onze ans plus tard parce qu’en retournant la tablette sur laquelle avait été écrit l’ordre divin le chiffre soixante-dix se lisait onze. </p><p>(Christin, "L'origine de l'écriture")</p>
+><p>**Babylone ayant été détruite de fond en comble par le roi Sennachérib et le dieu Marduk, courroucé contre
+sa ville, ayant interdit qu’elle fût reconstruite avant soixante-dix ans, le fils de Sennachérib, Asarhaddon, se crut autorisé à la reconstruire onze ans plus tard parce qu’en retournant la tablette sur laquelle avait été écrit l’ordre divin le chiffre soixante-dix se lisait onze.** </p><p>(Christin, "L'origine de l'écriture")</p>
 
 <!-- .element: style="font-size:1.6rem" -->
 ===
@@ -168,11 +169,32 @@ C'est cette dimension utilitariste qu'il s'agira aussi de discuter dans ce sémi
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/logo.jpg" data-background-size="contain"-->
-<!-- .slide: class="hover"-->
+<!-- .slide: data-background-image="img/mallarme.png" -->
 
 ## Mallarmé: le livre comme espace typographique
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/mallarme2.png" -->
+<!-- .slide: class="hover"-->
 
-<!-- .slide: data-background-image="img/calloway.png" data-background-size="contain"-->
+
+* 1ère édition dans la Revue Cosmopolis (1897)
+* 2e (non)édition indépendante, par Vollard, en collaboration avec l'imprimeur Firmin-Didot. (https://gallica.bnf.fr/ark:/12148/btv1b8625644w/f1.image#)
+* 3e édition : NRF Gallimard (1914)
+* 1993 = première présentation d’un jeu complet d’épreuves
+* < 1995 = essais de reconstitution (ex. : Michel Pierson & Ptyx, 2004, http://coupdedes.com/images/coupdedes.pdf)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/mallarme2.png" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/mallarme3.png" -->
+<!-- .slide: class="hover"-->
+## Les mutations du projet poétique incarnés dans le support livresque
+
+* Une police : dido
+* Des espaces blancs
+* Une polyphonie typographique
+* Un graphisme mimétique
+* Une <font="red">poésie sonore et visuelle</font="red">
