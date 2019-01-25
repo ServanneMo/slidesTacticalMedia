@@ -152,6 +152,8 @@ Il y a dans cette théorie de Goody un aspect téléologique - c'est-à-dire une
 <!-- .slide: data-background-image="img/ecritureSainte.jpeg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
+## Contre quoi cette théorie s'érige-t-elle ?
+
 * L'utilitarisme
 
 ===
@@ -167,6 +169,13 @@ Cette logique utilitariste, et c'est là où la thèse de Christin est particuli
 
 C'est cette dimension utilitariste qu'il s'agira aussi de discuter dans ce séminaire. consacré à ce que je pourrais appeler les media "tactiques". Il y a 2 manières de comprendre mon expression de médias tactiques : 1. *tactical media* : d'abord une référence très contextuelle, héritée de Lovink, pour désigner un courant lié aux pratiques numériques, d'investissement de l'espace numérique et de détournement des grandes plateformes. Mais plus largement, et j'en profite pour traduire l'expression afin de globaliser mon propos : je renvoie à tous ces usages des médias qui viennent justement questionner leur utilité première, notamment pour remettre en question les présupposés épistémologiques, politiques ou encore éthiques qui s'inscrivent, de manière latente, en leur sein.
 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/DRE351OXkAAJHxU.jpg" -->
+<!-- .slide: class="hover"-->
+
+## Les médias tactiques ?
+Et si l'on pouvait lutter contre "l'utilité" des médias ? Leur trouver une autre fonction ?
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/mallarme.png" -->
